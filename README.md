@@ -1,2 +1,3 @@
-"# RedHook" 
-"# RedHook" 
+# RedHook
+ 
+Simple dll to call redhook
